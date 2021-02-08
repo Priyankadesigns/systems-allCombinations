@@ -1,0 +1,2 @@
+# systems-allCombinations
+all combinations
